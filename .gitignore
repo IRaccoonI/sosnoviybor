@@ -1,0 +1,6 @@
+test.json
+test.sql
+source/settings.py
+*__pycache__*
+env
+.vscode
